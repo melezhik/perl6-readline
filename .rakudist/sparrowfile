@@ -1,4 +1,4 @@
-package-install, %(
+package-install %(
   debian => "libreadline7",
   centos => "readline",
   alpine => "readline"
